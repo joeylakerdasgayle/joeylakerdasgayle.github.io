@@ -1,0 +1,25 @@
+
+body {
+	margin:20px auto;
+	width:650px;
+}
+
+h3 {
+    color:#8f1919;
+    margin-bottom: -10px;
+}
+
+#title {
+    color:#8f1919;
+    background-color:#FFFFFF;
+    font-size:200%;
+    font-weight:normal;
+	margin:0px 0px 10px 0px;
+    float:left;
+}
+
+#maincontent {
+    float:left;
+    margin-top: -20px;
+}
+
