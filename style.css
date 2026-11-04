@@ -1,12 +1,17 @@
 
 body {
 	margin:20px auto;
-	width:650px;
+	width:700px;
 }
 
 h3 {
-    color:#8f1919;
-    margin-bottom: -10px;
+    color: #8f1919;
+    font-size: 1.25em;
+    font-weight: normal;
+    border-bottom: 1px solid #dddddd;
+    padding-bottom: 4px;
+    margin-top: 28px;
+    margin-bottom: 12px;
 }
 
 #title {
@@ -18,8 +23,24 @@ h3 {
     float:left;
 }
 
-#maincontent {
+#info {
     float:left;
     margin-top: -20px;
 }
 
+#maincontent {
+    margin-top: -20px;
+}
+
+.alt-email {
+    font-size: 0.9em;
+    color: #666666;
+    margin-left: 1em;
+}
+
+footer {
+    margin-top: 40px;
+    border-top: 1px solid #dddddd;
+    color: #666666;
+    font-size: 0.85em;
+}
